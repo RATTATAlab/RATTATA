@@ -1,0 +1,6 @@
+altgraph==0.17.2
+graphviz==0.20.1
+macholib==1.16
+Pillow==9.2.0
+pyinstaller==5.3
+pyinstaller-hooks-contrib==2022.10
