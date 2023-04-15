@@ -3,6 +3,7 @@ https://user-images.githubusercontent.com/122780337/232202142-94b9c90a-605c-4588
 # 概要
 アタックツリー描画ツール．パーツ作成スクリプト[CATPEC](https://github.com/RATTATAlab/CATPEC)が生成するリストをインポートすると，CAPEC攻撃パターンを使用しながらアタックツリーが作成できる他，本ツールで作成した別のアタックツリーからもパーツを検索して再利用が可能．
 RATTATA, Reusable Attack Trees Tool Accessible To All.
+らったった．
 
 # 対応OS
 - Windows 10
